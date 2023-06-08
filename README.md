@@ -1,7 +1,11 @@
 # typing.js
 
 ## usage
-    // typing js customisation
+
+```html
+
+<script>
+// typing js customisation
 
     var typing = new TypingJs('animation', {
 
@@ -21,7 +25,8 @@
 
     
 
-    });
+    }); </script> 
+```
 
 ### docs
 
