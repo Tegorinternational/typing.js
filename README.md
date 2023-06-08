@@ -3,7 +3,7 @@
 ## usage
     // typing js customisation
 
-    `var typing = new TypingJs('animation', {
+    var typing = new TypingJs('animation', {
 
       strings: ['java developer', 'backend developer'],
 
@@ -21,4 +21,4 @@
 
     
 
-    });`
+    });
