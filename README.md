@@ -34,6 +34,7 @@ For use directly in the browser via `<script>`:
 TypingJs is flexible but comes with sensible defaults:
 
 ```html
+<script>
 var typing = new TypingJs('elementId', {
     strings: [],
     typeSpeed: 50,
@@ -45,6 +46,7 @@ var typing = new TypingJs('elementId', {
     onComplete: null,
     onStop: null
 });
+</script>
 ```
 
 ## Limitations
