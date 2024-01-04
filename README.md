@@ -66,7 +66,7 @@ Experiment with different cursor characters and colors to match your website's t
 | typeSpeed    | 50            | Between 10 - 9999 || 120      |
 | backSpeed    | 30            | Between 10 - 9999 || 30       |
 | startDelay   | 0             | Between 0 - 9999 || 0         |
-| cursorChar   | '|'           | 'Any Character'                |
+| cursorChar   | '&VerticalLine;'           | 'Any Character'                |
 | cursorColor  | 'black'       | 'Any Color'                   |
 | loop         | false         | true/false                    |
 | onComplete   | null          | function() { /* Custom function */ } |
