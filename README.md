@@ -21,6 +21,7 @@ Start adding a delightful typing animation to your webpage with just one line of
 For use directly in the browser via `<script>`:
 
 ```html
+<p id="elementId"><p>
 <script>
   var typing = new TypingJs('elementId', {
     strings: ['First sentence', 'Second sentence'],
