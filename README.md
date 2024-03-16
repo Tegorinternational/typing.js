@@ -3,7 +3,7 @@
 ## Get Started
 
 Start adding a delightful typing animation to your webpage with just one line of code:
-
+Add script in your html code 👇
 ```html
 <script src="https://cdn.jsdelivr.net/gh/Tegorinternational/typing.js@1.0.0/typing.min.js"></script>
 ```
